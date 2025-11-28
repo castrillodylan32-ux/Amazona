@@ -1,4 +1,4 @@
 # Amazona
 cosa extraña de amazona amazonica.
 
-[!]Loro(imagenes/loro.jpg)
+[!][Loro](imagenes/loro.jpg)
